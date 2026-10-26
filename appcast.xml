@@ -7,31 +7,94 @@
     <description>Updates to RAWdemption, the RAW editor for macOS.</description>
     <language>en</language>
     <item>
-      <title>RAWdemption 0.9.1</title>
-      <pubDate>Wed, 21 Oct 2026 20:15:14 GMT</pubDate>
-      <sparkle:version>5</sparkle:version>
-      <sparkle:shortVersionString>0.9.1</sparkle:shortVersionString>
+      <title>RAWdemption 0.9.22</title>
+      <pubDate>Mon, 26 Oct 2026 17:58:34 GMT</pubDate>
+      <sparkle:version>26</sparkle:version>
+      <sparkle:shortVersionString>0.9.22</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Fixes RAWdemption not opening (&quot;the executable is missing&quot;).</li></ul>]]></description>
-      <enclosure url="https://hobocow.github.io/rawdemption/downloads/RAWdemption-0.9.1.zip" length="2415143" type="application/octet-stream" sparkle:edSignature="3yWf/X5SgqsWMmZYFIaOE5HAIGbT4U929VYeiZbC2HBoZxzQoLKqxbUIZEXF3megQ1yExKOcwFb5k9zUxBQJAg=="/>
+      <description><![CDATA[<ul><li>New: Help › Send Feedback or an Idea, which reaches me directly.</li><li>A short welcome note on first launch.</li></ul>]]></description>
+      <enclosure url="https://rawdemption.com/downloads/RAWdemption-0.9.22.zip" length="2691777" type="application/octet-stream" sparkle:edSignature="acIjIQfsS3IZomnT4j7iU01ILlVWjPMP63RxNEVuTnhaUNIWpImMN3Oyu9FEsaUgXuRdiugrAM/y9xTIyTdgDQ=="/>
     </item>
     <item>
-      <title>RAWdemption 0.9.0</title>
-      <pubDate>Wed, 21 Oct 2026 19:39:18 GMT</pubDate>
-      <sparkle:version>4</sparkle:version>
-      <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
+      <title>RAWdemption 0.9.21</title>
+      <pubDate>Mon, 26 Oct 2026 16:07:58 GMT</pubDate>
+      <sparkle:version>25</sparkle:version>
+      <sparkle:shortVersionString>0.9.21</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>RAWdemption is now a public beta, numbered 0.9. Same app; if something looks off, Help › Report a Problem tells us.</li></ul>]]></description>
-      <enclosure url="https://hobocow.github.io/rawdemption/downloads/RAWdemption-0.9.0.zip" length="2416202" type="application/octet-stream" sparkle:edSignature="8dJJCWnTPwKHmdSjiaDvlsmFJ2uB+OjhGIylIPmErFNJm1EcczKfCmzmaBTQ0kQ8ZinbWs4LN8i3Qwudmm+DDg=="/>
+      <description><![CDATA[<ul><li>Updates now come from rawdemption.com.</li><li>Help › Report a Problem now writes to bug@rawdemption.com.</li></ul>]]></description>
+      <enclosure url="https://rawdemption.com/downloads/RAWdemption-0.9.21.zip" length="2687266" type="application/octet-stream" sparkle:edSignature="11uEcjuEjqUfBtFIfIJM8vVOQKVvhpS8llW7qAQgF7IZ4Dl4M5XRG8MVH/MQJd38ddLz+DfJQMSmlDpCxQrCDA=="/>
     </item>
     <item>
-      <title>RAWdemption 1.1</title>
-      <pubDate>Wed, 21 Oct 2026 19:14:50 GMT</pubDate>
-      <sparkle:version>3</sparkle:version>
-      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+      <title>RAWdemption 0.9.20</title>
+      <pubDate>Mon, 26 Oct 2026 14:09:09 GMT</pubDate>
+      <sparkle:version>24</sparkle:version>
+      <sparkle:shortVersionString>0.9.20</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Lightbox is now RAWdemption: the same app, a new name. Your folders, settings and edits come with it.</li><li>macOS may ask once more to let it read your photo drives.</li></ul>]]></description>
-      <enclosure url="https://hobocow.github.io/rawdemption/downloads/RAWdemption-1.1.zip" length="2414514" type="application/octet-stream" sparkle:edSignature="G/sehHU4OB3k3B+5mSUdXlsLC7e3rKfysCYwT0H0bsYhcR9tOsZn0X4KmDVAQHgElaLSlVXXvfQCbE48UxRLBg=="/>
+      <description><![CDATA[<ul><li>The profile page now gives a preview of what supporters see, using your own cameras and lenses.</li></ul>]]></description>
+      <enclosure url="https://rawdemption.com/downloads/RAWdemption-0.9.20.zip" length="2615043" type="application/octet-stream" sparkle:edSignature="am6OD48LVPRa35AMKITWUMWaHCFLTiQYAcjJ8+INd+0+hPwgI4Oj+u+la6xCZQcDoAZdWpxpnxUGr/tE24qyCg=="/>
+    </item>
+    <item>
+      <title>RAWdemption 0.9.19</title>
+      <pubDate>Mon, 26 Oct 2026 13:57:45 GMT</pubDate>
+      <sparkle:version>23</sparkle:version>
+      <sparkle:shortVersionString>0.9.19</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Clicking a photo now zooms to 125%.</li><li>Clearer wording on the profile page about what supporting on Patreon adds.</li></ul>]]></description>
+      <enclosure url="https://rawdemption.com/downloads/RAWdemption-0.9.19.zip" length="2611036" type="application/octet-stream" sparkle:edSignature="nDo6Ipe+jlnog/gU91d9tGAEzStpSc8coIc4JGrzXcFjEFUocvHISDSY646Rt9ybyVE2PhFTsIRVVw8VivN3Bg=="/>
+    </item>
+    <item>
+      <title>RAWdemption 0.9.18</title>
+      <pubDate>Mon, 26 Oct 2026 12:54:25 GMT</pubDate>
+      <sparkle:version>22</sparkle:version>
+      <sparkle:shortVersionString>0.9.18</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Flicking quickly through photos no longer develops every photo you skip past.</li><li>Slides and fades between edited photos use much less graphics work.</li><li>Less background work while you adjust white balance and detail, and while the pointer rests on the adjustment panel.</li></ul>]]></description>
+      <enclosure url="https://rawdemption.com/downloads/RAWdemption-0.9.18.zip" length="2611087" type="application/octet-stream" sparkle:edSignature="qQZOD+3BPaF79V2X18Ug1JIGmzoqrEZJ1/r6JnNMOjyEG0v2b5uQcKGXOpvVL4cwCJBrq2Cip/CHTdrMmNfSDQ=="/>
+    </item>
+    <item>
+      <title>RAWdemption 0.9.17</title>
+      <pubDate>Thu, 22 Oct 2026 19:27:54 GMT</pubDate>
+      <sparkle:version>21</sparkle:version>
+      <sparkle:shortVersionString>0.9.17</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Saving an edit now updates its thumbnail without rendering the photo again.</li><li>Tone sliders no longer trigger a second refinement pass when the image is already sharp.</li><li>Opening a photo is quicker: controls are prepared when you reach for them instead of in advance.</li></ul>]]></description>
+      <enclosure url="https://rawdemption.com/downloads/RAWdemption-0.9.17.zip" length="2601558" type="application/octet-stream" sparkle:edSignature="ahJdrx3GFT5d4ccMfcwlF/QANaa2gHGquSndYbeffmrcGtZ7B47yvp4v9jDc2fru+nOP4V43dfF3L8HPWY1QCg=="/>
+    </item>
+    <item>
+      <title>RAWdemption 0.9.16</title>
+      <pubDate>Thu, 22 Oct 2026 18:33:12 GMT</pubDate>
+      <sparkle:version>20</sparkle:version>
+      <sparkle:shortVersionString>0.9.16</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Reduced rendering work and memory use when editing photos at fit-to-window size.</li><li>Edited thumbnails now render at thumbnail size; exports and full-resolution zoom keep full detail.</li></ul>]]></description>
+      <enclosure url="https://rawdemption.com/downloads/RAWdemption-0.9.16.zip" length="2591720" type="application/octet-stream" sparkle:edSignature="oAc8O+JPZDYDX3florQ093yX5SAxxUAXwuHqB8ZTzl9CGSytk45Y9CFEKWEa7VkA1jBXkhHNTLE/642zPrTrBw=="/>
+    </item>
+    <item>
+      <title>RAWdemption 0.9.15</title>
+      <pubDate>Thu, 22 Oct 2026 17:15:23 GMT</pubDate>
+      <sparkle:version>19</sparkle:version>
+      <sparkle:shortVersionString>0.9.15</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Exporting after an app update is about twice as fast: the app no longer throws away what it learned about your photos each time it updates.</li></ul>]]></description>
+      <enclosure url="https://rawdemption.com/downloads/RAWdemption-0.9.15.zip" length="2591237" type="application/octet-stream" sparkle:edSignature="ipXZpMMF7mMXCA9Yk2Ly1qffWigR8tOtylXljeOFlLm27/JFJKPE4fFd8emxMkgvmltLMRe2dW7aC/WxW0hBAA=="/>
+    </item>
+    <item>
+      <title>RAWdemption 0.9.14</title>
+      <pubDate>Thu, 22 Oct 2026 16:18:39 GMT</pubDate>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>0.9.14</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Preparing the next photo in the background now gives way to the screen, so the pointer stays smooth while you edit.</li></ul>]]></description>
+      <enclosure url="https://rawdemption.com/downloads/RAWdemption-0.9.14.zip" length="2591536" type="application/octet-stream" sparkle:edSignature="kyFla3w6ML53j6xEuPcDI9BxciV6b972mPTP+NJqxWPwjCDH1quvRFWsF7yR4o797N+58+OOie007E/44wT7DA=="/>
+    </item>
+    <item>
+      <title>RAWdemption 0.9.13</title>
+      <pubDate>Thu, 22 Oct 2026 15:59:18 GMT</pubDate>
+      <sparkle:version>17</sparkle:version>
+      <sparkle:shortVersionString>0.9.13</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Export progress, the grid and floating panels are lighter to draw. The profile page opens more smoothly.</li></ul>]]></description>
+      <enclosure url="https://rawdemption.com/downloads/RAWdemption-0.9.13.zip" length="2591188" type="application/octet-stream" sparkle:edSignature="xaICZvi6bWg9Ye4333GXT4VVwOHNh3Ffasb6+6eJBVj+Kub6PJBqve5aKgALG8HDpFZefxkWef+EGv7RcL1ECw=="/>
     </item>
   </channel>
 </rss>
